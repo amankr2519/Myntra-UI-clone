@@ -1,6 +1,6 @@
 # Myntra Clone
 
-This project is a clone of the Myntra website, built using only HTML and CSS. The purpose of this project is to strengthen my CSS skills through practical application.
+This project is a clone of the Myntra website, built using HTML and CSS as a learning exercise. The primary purpose of this project is to strengthen my CSS skills by recreating a complex, real-world website layout.
 
 ## Features
 
